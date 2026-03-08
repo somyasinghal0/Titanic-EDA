@@ -21,6 +21,14 @@ To analyze the dataset and understand the factors affecting survival rates.
 5. Correlation analysis
 6. Visualization
 
+## Visualizations
+
+![Survival Distribution](images/survival_distribution_countplot.png)
+
+![Survival by Gender](images/gender_by_survival.png)
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 ## Key Insights
 - Female passengers had a higher survival rate.
 - Passengers in first class had better chances of survival.
