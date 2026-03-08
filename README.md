@@ -27,7 +27,7 @@ To analyze the dataset and understand the factors affecting survival rates.
 
 ![Survival by Gender](images/gender_by_survival.png)
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png.png)
 
 ## Key Insights
 - Female passengers had a higher survival rate.
